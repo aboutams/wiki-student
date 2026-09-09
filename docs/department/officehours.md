@@ -4,11 +4,11 @@
     The times listed below apply only when classes are in session.
     No office hours are held during breaks or finals week (unless your professor has communicated an exception).
 
-## Dr. Mohamed Aboutabl
+## Dr. Mohamed ABOUTABL
 
 * In-Person, In my office ( KING 255 ), Walk-in FCFS
-    * **Mon** and **Wed** 9:30 AM --> 10:30 AM
-    * **Tue** and **Thu** 11:00 AM --> 12:30 PM
+    * **Mon** and **Wed** 10:00 AM --> 11:00 AM
+    * **Tue** and **Thu**  9:30 AM --> 11:00 AM
 * On Zoom, By Appointment-Only
     * https://jmu-edu.zoom.us/j/88604390066?pwd=L3E0QnpyT3hHYTgxemMrMXJnZnFyZz09
 
